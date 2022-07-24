@@ -1,0 +1,32 @@
+#header-title {
+    background-color: white;
+    margin: 0%;
+    padding: 15px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #000;
+    text-align: center;
+
+}
+
+#header-title1 {
+    background-color: black;
+    margin: 0%;
+    padding: 15px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    text-align: center;
+}
+
+#header-des {
+    background-color: rgb(184, 22, 22);
+    margin: 0%;
+    text-align: center;
+    padding: 5px;
+    color: #fff;
+}
+
+.card:hover {
+    opacity: 0.7;
+}
